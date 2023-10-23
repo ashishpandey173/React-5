@@ -1,0 +1,21 @@
+/* src/components/AgeCalculator.css */
+
+.age-calculator {
+    text-align: center;
+    margin: 100px auto;
+  }
+  
+.calculate-button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+  
